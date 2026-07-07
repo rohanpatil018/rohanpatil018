@@ -185,13 +185,13 @@ Hybrid recommender fusing collaborative filtering (SVD) and content-based filter
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanpatil018&theme=dark&hide_border=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil018&theme=dark&hide_border=true&layout=compact"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
 <br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=rohanpatil018&theme=dark&hide_border=true"/>
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=rohanpatil018&theme=dark&hide_border=false"/>
 
 </div>
 
@@ -200,7 +200,15 @@ Hybrid recommender fusing collaborative filtering (SVD) and content-based filter
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanpatil018&theme=radical&no-frame=true&margin-w=10&row=1" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanpatil018&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%"/>
+</div>
+
+<hr>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohanpatil018&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%"/>
 </div>
 
 <hr>
