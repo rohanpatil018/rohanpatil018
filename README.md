@@ -181,38 +181,6 @@ Hybrid recommender fusing collaborative filtering (SVD) and content-based filter
 
 <hr>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
-<br><br>
-
-<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=rohanpatil018&theme=dark&hide_border=false"/>
-
-</div>
-
-<hr>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanpatil018&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%"/>
-</div>
-
-<hr>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rohanpatil018&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%"/>
-</div>
-
-<hr>
-
 ### 🌐 Connect
 
 <div align="center">
