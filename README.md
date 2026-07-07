@@ -1,21 +1,228 @@
-# 💫 About Me:
-1) Currently working on:<br>Building AI agents and automation systems that solve real-world business problems.<br>Also strengthening my foundation in DSA, MERN stack, and Machine Learning to build scalable products.<br><br>2) Want to collaborate with:<br>Developers, founders, and AI enthusiasts who are building meaningful tech products — especially in AI, Web3, automation, and ML-based startups.<br><br>3) I’m currently learning:<br>Advanced Data Structures & Algorithms, full-stack development (MERN), Machine Learning fundamentals, and system design.<br><br>4) Ask me about:<br>AI agents, automation workflows, learning roadmap for AI/ML, DSA preparation, and building projects from scratch as a college student.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohanpatil018&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,60:161b22,100:0d1117&height=120&section=header&text=Rohan%20Patil&fontSize=48&fontColor=58a6ff&descSize=16&descAlignY=85&descColor=8b949e" width="100%"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohanpatil018&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Machine Learning Engineer · GenAI & AI Agents & Automation · Python · ML · LLMs
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohanpatil018&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔗 linkedin.com/in/rohanpatil-625074321 · rohanjjj1230@gmail.com
 
----
-[![](https://visitcount.itsvg.in/api?id=rohanpatil018&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Final-year AI & ML student at Zeal College of Engineering and Research, Pune, building GenAI systems, LLM security tooling, and ML pipelines that go from idea to a working product. I've trained and evaluated LLMs at production scale, built a self-hosted LLM security gateway with a real-time threat dashboard, and shipped ML models across credit risk, recommendations, and financial assistants.
+
+<hr>
+
+### 💼 Experience
+
+<table>
+<tr>
+<th></th>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Impact & Stack</th>
+</tr>
+
+<tr>
+<td>🟣</td>
+<td>
+<b>LLM Trainer</b><br>
+<sub>Mar 2025 – Present</sub>
+</td>
+<td>
+<b>Outlier AI</b><br>
+<sub>Remote</sub>
+</td>
+<td>
+• Optimized <b>500+ prompts</b>, improving coherence & instruction-following<br>
+• Engineered adversarial test cases for model alignment pipelines<br>
+• Built annotation rubrics adopted across distributed labeling workflows
+</td>
+</tr>
+
+<tr>
+<td>🔵</td>
+<td>
+<b>CP-DSA Lead</b><br>
+<sub>Oct 2025 – Present</sub>
+</td>
+<td>
+<b>Google Developer Groups (GDG) — ZCOER Chapter</b><br>
+<sub>Pune, India</sub>
+</td>
+<td>
+• Led DSA/CP curriculum for a <b>100+ member community</b><br>
+• Mentored <b>30+ students</b> — avg. 40% contest ranking improvement<br>
+• Designed FAANG-style interview prep tracks
+</td>
+</tr>
+
+</table>
+
+<hr>
+
+### 🚀 Highlights
+
+| 💡 Area | ⚡ Summary |
+|---|---|
+| 🧠 AI/ML | LLM training & evaluation, RAG, GenAI agents, model alignment |
+| 🔐 AI Security | Self-hosted LLM security gateway (PII redaction, threat detection) |
+| 📊 ML Systems | Risk modeling, recommendation engines, financial ML pipelines |
+| ⚡ Backend | FastAPI services, REST APIs, sub-200ms latency design |
+| 🛠 MLOps | Docker, Git-based workflows, model evaluation pipelines |
+| 💻 DSA | Consistent LeetCode/Codeforces practice — graphs, DP, greedy |
+| 🎓 Academics | GPA 9.88/10.0, AI & ML, Zeal College of Engineering and Research |
+
+<hr>
+
+### 🧠 Technical Summary
+
+- **GenAI & LLMs:** Prompt evaluation & alignment, RAG architecture, LangChain/LangGraph, MCP, LLM security & guardrails (Microsoft Presidio)
+- **Machine Learning:** Classification & regression, XGBoost, feature engineering, hyperparameter tuning, model evaluation
+- **Deep Learning:** CNNs, PyTorch, TensorFlow, Keras
+- **Backend & APIs:** FastAPI, Node.js, REST API design, clean modular architecture
+- **Data:** Pandas, NumPy, SQL, MongoDB, Power BI/DAX
+- **Dev Workflow:** Git/GitHub, Docker, Jupyter, Linux, Agile collaboration
+
+<hr>
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<hr>
+
+### 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**🛡️ SentinelLLM**
+
+Self-hosted LLM security gateway with a real-time threat dashboard — prompt scanning, PII redaction (Microsoft Presidio), policy engine, and response scanning, containerized via Docker Compose.
+
+`FastAPI` `Microsoft Presidio` `Docker Compose` `React`
+
+📁 Repo
+
+</td>
+
+<td width="50%" valign="top">
+
+**📈 Credit Risk Analytics — Loan Default Prediction**
+
+End-to-end credit risk prediction system. Benchmarked Logistic Regression, Random Forest, and XGBoost (ROC-AUC 0.91) with feature engineering across 20+ financial attributes, cutting model error by 15%.
+
+`Python` `XGBoost` `Scikit-learn` `SQL`
+
+📁 [Repo](https://github.com/rohanpatil018)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+**💰 FinWise — AI-Powered Financial Assistant**
+
+Scalable AI financial assistant on a FastAPI backend with modular service layers, sub-200ms API latency, and context-aware investment recommendation logic.
+
+`Python` `FastAPI` `ML` `REST APIs`
+
+📁 [Repo](https://github.com/rohanpatil018)
+
+</td>
+
+<td width="50%" valign="top">
+
+**🎬 CinematicAI — Hybrid Recommendation Engine**
+
+Hybrid recommender fusing collaborative filtering (SVD) and content-based filtering (TF-IDF), 85%+ relevance across 10,000+ movies, with genre-weighted cold-start handling.
+
+`Python` `Scikit-learn` `Pandas` `TF-IDF` `SVD`
+
+📁 [Repo](https://github.com/rohanpatil018)
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanpatil018&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil018&theme=github_dark&hide_border=true&layout=compact"/>
+
+<br><br>
+
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=rohanpatil018&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<hr>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanpatil018&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%"/>
+</div>
+
+<hr>
+
+### 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rohanpatil-625074321">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://github.com/rohanpatil018">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanpatil018&label=Profile%20Views&color=1f6feb&style=flat-square" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=footer" width="100%"/>
