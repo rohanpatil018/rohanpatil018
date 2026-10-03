@@ -126,13 +126,13 @@ Final-year AI & ML student at Zeal College of Engineering and Research, Pune, bu
 
 <td width="50%" valign="top">
 
-**🛡️ SentinelLLM**
+**🔎 FastAPI Docs Assistant — Evaluated RAG System**
 
-Self-hosted LLM security gateway with a real-time threat dashboard — prompt scanning, PII redaction (Microsoft Presidio), policy engine, and response scanning, containerized via Docker Compose.
+RAG service over the FastAPI documentation with hybrid BM25 + dense retrieval (reciprocal rank fusion), an ONNX cross-encoder reranker, and an embeddings-based query router that refuses off-topic questions. On a 40-question benchmark, reranking raised Hit@1 from 0.60 to 0.825 and MRR from 0.71 to 0.88 over dense-only retrieval. Answers are cited Gemini responses behind a FastAPI chat UI.
 
-`FastAPI` `Microsoft Presidio` `Docker Compose` `React`
+`FastAPI` `Qdrant` `LangChain` `Gemini` `ONNX` `NumPy`
 
-📁 Repo
+📁 [Repo](https://github.com/rohanpatil018/FastAPI-Docs-Assistant)
 
 </td>
 
